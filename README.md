@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Akhil Datta 👋
 
-<!--
-**Akhildatta108/Akhildatta108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at NIE Mysore  
+📊 Interested in Data Engineering & Data Analytics  
+☁️ Learning Cloud (AWS, GCP)  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Pandas
+- Data Cleaning
+- ETL Pipelines
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Sales Data ETL Pipeline
+Built a simple ETL pipeline using Python and Pandas to clean and transform sales data.
+
+Tech Stack:
+Python, Pandas, CSV Data Processing
+
+GitHub Repo:
+https://github.com/Akhildatta108/etl-sales-pipeline
+
+## Currently Learning
+- Data Engineering
+- AWS Cloud
+- Big Data Systems
