@@ -23,6 +23,20 @@ Python, Pandas, CSV Data Processing
 GitHub Repo:
 https://github.com/Akhildatta108/etl-sales-pipeline
 
+### TaskFlow – React Task Manager
+
+A minimal task management web application built using React.
+
+Features:
+- Add and manage tasks
+- Task categories (Work, Personal, Learning, Health)
+- Priority levels (Low, Medium, High)
+- Task completion tracking
+
+Tech Stack: React, JavaScript, CSS, Vite
+
+GitHub Repo: https://github.com/Akhildatta108/TaskFlow
+
 ## Currently Learning
 - Data Engineering
 - AWS Cloud
